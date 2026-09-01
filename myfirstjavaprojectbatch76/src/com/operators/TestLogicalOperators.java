@@ -17,6 +17,10 @@ public class TestLogicalOperators {
 //		System.out.println(a && b );//CE 
 
 		System.out.println(true && true);// true
+		
+		//The operator && is undefined for the argument type(s) int, int
+//		System.out.println(1 && 1);
+		
 		System.out.println(true && false);// false
 		System.out.println(false && true);// false 2nd part is Dead code
 		System.out.println(false && false);// false 2nd part is Dead code
@@ -33,7 +37,7 @@ public class TestLogicalOperators {
 		System.out.println("------------------------");
 
 		System.out.println(!(true));// false
-		System.out.println(!(a > b));//true
+		System.out.println(!(a > b));// true
 
 	}
 

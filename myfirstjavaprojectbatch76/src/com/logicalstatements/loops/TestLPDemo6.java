@@ -5,7 +5,7 @@ import java.util.Scanner;
 ///Q) WAP to print the Given number is Perfect or not ..? 
 ///Perfect number means : 
 ///Sum of the Factors is equals to the Given number which excludes the given number.
-///1 --> 1 
+//
 ///6 --> 1 2 3 = 6 
 ///28 --> 1 2 4 7 14 = 28 
 ///496 & 8128 

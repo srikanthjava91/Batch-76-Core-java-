@@ -1,6 +1,6 @@
 package com.oops.loanapp;
 
-public class HomeLoan extends Loan {
+public class HomeLoan extends LoanImpl {
 
 	public static void main(String[] args) {
 

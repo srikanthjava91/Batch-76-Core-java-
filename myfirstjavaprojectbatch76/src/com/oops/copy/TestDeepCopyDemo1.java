@@ -5,6 +5,9 @@ class Employee {
 	String ename;
 	double salary;
 	Address1 address1;
+	
+//	This method requires a body instead of a semicolon
+//	void hello();
 
 	public Employee(int eid, String ename, double salary, Address1 address1) {
 		this.eid = eid;
